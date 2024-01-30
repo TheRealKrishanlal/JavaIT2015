@@ -28,5 +28,13 @@ public class TournamentManager {
             System.out.println(e.toString());
         }
 
+
+
+    }
+
+    public String listAllPlayers(){
+
+        Player.toString();
+
     }
 }
