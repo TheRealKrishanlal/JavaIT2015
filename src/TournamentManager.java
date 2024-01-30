@@ -32,9 +32,15 @@ public class TournamentManager {
 
     }
 
-    public String listAllPlayers(){
+    public String listAllPlayers() {
+        StringBuilder result = new StringBuilder();
 
-        Player.toString();
+        for (Player player : playerArr) {
+            if (player != null) {
+                result.append(player.toString()).append("\n");
+            }
+        }
 
+        return result.toString();
     }
 }
