@@ -1,0 +1,10 @@
+1,Colby Noble,Hong Kong
+2,Craig Hamilton,Myanmar
+3,Dante Franklin,South Korea
+4,Chadwick Baird,India
+5,Wallace Forbes,Cameroon
+6,Tanek Jimenez,Italy
+7,Jared Flynn,Burundi
+8,Yasir Rosario,Taiwan
+9,Levi Klein,Botswana
+10,Kibo Ford,American Samoa
